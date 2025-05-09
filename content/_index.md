@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        MARNEA
+        [](logo.png) MARNEA
         Research Group
       image:
         filename: welcome.jpg
