@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abdelilah LAHMAR
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Abdelilah
+last_name: LAHMAR
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Materials Science 
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Laboratoire de Physique de la Matière Condensée 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhr.
 
 interests:
   - Artificial Intelligence
