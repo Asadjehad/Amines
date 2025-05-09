@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Welcome to MARNEA
-        content: Innovation. Collaboration. Advanced Materials for Energy.
+        content: Innovation Collaboration Advanced Materials for Energy...
 
 ...
         align: center
