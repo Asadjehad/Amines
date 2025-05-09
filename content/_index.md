@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Advanced Materials Research Network for Energy Applications** is a collaborative group focuses on the development of advanced materials, namely the synthesis, characterization and theoretical understanding of functional materials able to be used in energy applications.
   
   - block: collection
     content:
