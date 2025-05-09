@@ -8,7 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        [](icon.png) MARNEA
+        image:
+    filename: icon.png MARNEA
         Research Group
       image:
         filename: welcome.jpg
