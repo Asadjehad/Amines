@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Naji Aldahoudi
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Naji
+last_name: Aldahoudi
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Physics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: AUG
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Nanomaterials
+  - Computational Physics
+  - Thin Films
 
 education:
   courses:
