@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Welcome to MARNEA
-        content: Take a look at what thank you we're working on...
+        content: Together Toward Greener, Smarter Energy Systems...
         align: center
         background:
           image:
