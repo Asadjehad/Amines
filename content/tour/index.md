@@ -9,7 +9,9 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to MARNEA
-        content: Take a look at what we're working on...
+        content: At the heart of innovation lies a commitment to excellence in research. We strive to push the boundaries of knowledge through rigorous investigation, interdisciplinary collaboration, and impactful scientific discovery. Our goal is to foster an environment where academic curiosity meets real-world application, driving solutions that shape the future.
+
+...
         align: center
         background:
           image:
