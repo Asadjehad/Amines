@@ -9,9 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to MARNEA
-        content: We strive to push the boundaries of knowledge through rigorous investigation, interdisciplinary collaboration, and impactful scientific discovery.
-
-...
+        content: Take a look at what we're working on...
         align: center
         background:
           image:
