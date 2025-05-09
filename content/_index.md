@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Advanced Materials Research Network for Energy Applications** is a collaborative group focuses on the development of advanced materials, namely the synthesis, characterization and theoretical understanding of functional materials able to be used in energy applications.
+        The **Advanced Materials Research Network for Energy Applications (MARNEA)** is a collaborative group focuses on the development of advanced materials, namely the synthesis, characterization and theoretical understanding of functional materials able to be used in energy applications.
   
   - block: collection
     content:
