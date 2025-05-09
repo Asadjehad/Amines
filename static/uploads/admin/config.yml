@@ -1,1 +1,39 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "authors"
+    label: "Authors"
+    folder: "content/authors"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name", name: "title", widget: "string" }
+      - { label: "Role", name: "role", widget: "string" }
+      - { label: "Avatar", name: "avatar", widget: "image" }
+      - { label: "Bio", name: "bio", widget: "text" }
+      - { label: "Email", name: "email", widget: "string" }
+      - { label: "Superuser", name: "superuser", widget: "boolean", default: false }
+      - label: "Interests"
+        name: "interests"
+        widget: "list"
+        required: false
+      - label: "Organizations"
+        name: "organizations"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "URL", name: "url", widget: "string" }
+      - label: "Social Links"
+        name: "social"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Icon", name: "icon", widget: "string" }
+          - { label: "Link", name: "link", widget: "string" }
 
