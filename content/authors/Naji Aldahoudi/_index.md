@@ -4,7 +4,7 @@ title: Naji ALDAHOUDI
 
 # Full name (for SEO)
 first_name: Naji
-last_name: Aldahoudi
+last_name: ALDAHOUDI
 
 # Username (this should match the folder name)
 authors:
