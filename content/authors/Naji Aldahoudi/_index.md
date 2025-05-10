@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Naji Aldahoudi
+title: Naji ALDAHOUDI
 
 # Full name (for SEO)
 first_name: Naji
