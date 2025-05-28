@@ -15,7 +15,7 @@ main:
     weight: 30
     children:
       - name: Subgroup
-        url: Subgroup
+        url: subgroup
         weight: 1
   - name: Events
     url: event
